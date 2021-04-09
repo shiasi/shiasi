@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiasi, call me Shevin
+- 👋 Hi, I’m @shiasi, Full name: Alireza 'Shevina' Shiasi, call me Shevina or Shevin for short if you're lazy like me ;)
 - 👀 I’m interested in CS (obviously), software architecture, SOAS, distributed systems (OS), web development.
 - 🌱 I’m currently learning Nodejs, Python, Flask, C/C++.
 - 💞️ I’m looking to collaborate on SOAS development, backend/serverside programming, Enterprose software development (intership).
