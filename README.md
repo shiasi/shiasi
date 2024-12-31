@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shiasi, Full name: Alireza Shiasi ;)
-- 👀 I’m interested in CS (obviously), software architecture, SOAS, distributed systems (OS), web development.
-- 🌱 Currently learning Javascript, Python, Flask, C/C++.
-- 💞️ I’m looking to collaborate on SaaS development, backend/serverside programming, Enterprise software development (intership).
-- 📫 How to reach me: ...
+- 👋 Hi, I’m Alireza Shiasi (@shiasi) ;)
+- 👀 Interested in Computer Sience and Information Technology.
+- 🌱 Learning Javascript, Python, Go. I'm a hobbyst (I work in other industry with other profession), I've tried to work in this sector but except years before, strangely I couldn't so I do it now as a hobby.
+- 💞️  I'm into Open Source and Free software like gnu, linux, bsd etc. 
+- 📫 Have message? Just reach me via social media like in/alirezashiasi.
 
 <!---
 shiasi/shiasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
